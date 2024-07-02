@@ -35,6 +35,138 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Robledo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-02T10:51:35.500Z",
+      "notes": "",
+      "position": {
+        "lat": "38.75804419087008",
+        "lng": "-2.4169921875000004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Valcebollere",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-02T10:53:48.265Z",
+      "notes": "",
+      "position": {
+        "lat": "42.37568132141485",
+        "lng": "2.0654296875000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "El Frasno",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-02T10:57:04.548Z",
+      "notes": "",
+      "position": {
+        "lat": "41.39524531535416",
+        "lng": "-1.47216796875"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Miedes de Atienza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-02T10:57:39.189Z",
+      "notes": "",
+      "position": {
+        "lat": "41.24647253987916",
+        "lng": "-2.96630859375"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Vinhais",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-07-02T10:57:53.755Z",
+      "notes": "",
+      "position": {
+        "lat": "41.723945006369405",
+        "lng": "-7.075195312500001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Belalcazar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-02T10:58:55.159Z",
+      "notes": "",
+      "position": {
+        "lat": "38.6014675492169",
+        "lng": "-5.229492187500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Teruel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-02T10:59:58.287Z",
+      "notes": "",
+      "position": {
+        "lat": "40.33094493916355",
+        "lng": "-1.0327148437500002"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Valle de Valdelucio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-02T11:01:58.583Z",
+      "notes": "",
+      "position": {
+        "lat": "42.69947919145758",
+        "lng": "-4.064941406250001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Saint-Front",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-02T11:02:38.325Z",
+      "notes": "",
+      "position": {
+        "lat": "44.98055114263675",
+        "lng": "4.130859375000001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Tuili",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-02T11:07:16.198Z",
+      "notes": "",
+      "position": {
+        "lat": "39.725864295958836",
+        "lng": "8.964843750000002"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Holstebro",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2024-07-26T11:11:22.000Z",
+      "notes": "",
+      "position": {
+        "lat": "56.36583312219599",
+        "lng": "8.854980468750002"
+      },
+      "id": 98443208
     }
   ]
 }
