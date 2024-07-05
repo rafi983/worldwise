@@ -157,16 +157,16 @@
       "id": 98443207
     },
     {
-      "cityName": "Holstebro",
-      "country": "Denmark",
-      "emoji": "🇩🇰",
-      "date": "2024-07-26T11:11:22.000Z",
-      "notes": "",
+      "cityName": "Torregrosa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-05T13:52:31.036Z",
+      "notes": "it was a good trip",
       "position": {
-        "lat": "56.36583312219599",
-        "lng": "8.854980468750002"
+        "lat": "41.57036353147829",
+        "lng": "0.7855224609375001"
       },
-      "id": 98443208
+      "id": 98443209
     }
   ]
 }
